@@ -87,4 +87,4 @@ while True:
 
     if answer.lower() != "yes":
         print("Thank you for using the Physics Calculator!")
-        break
+         break
